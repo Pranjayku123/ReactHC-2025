@@ -20,7 +20,7 @@ const reactElement = {
     href: "http:/google.com",
     traget: "_blank",
   },
-  children: "click me to visit goole",
+  children: "click me to visit google",  
 };
 
 const mainContainer = document.querySelector("#root");
